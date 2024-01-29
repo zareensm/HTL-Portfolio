@@ -1,2 +1,2 @@
-# HTL-Portfolio
+# HTML-Portfolio
 Portfolio website
